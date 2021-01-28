@@ -7,9 +7,11 @@ Jingda Deng, Qingfu Zhang, Jianyong Sun, and Hui Li, "An O(n3/2logn) Exact Algor
 
 which was submitted to IEEE TEVC (under review)
 
-# HVC4DG
-The original algorithm described in Section III-B
-# HVC4DGS
-An improved version of HVC4DG by using the method described in Section III-C
+# HVC4DG/HVC4DGS
+HVC4DG: the original algorithm described in Section III-B
+
+HVC4DGS: an improved version of HVC4DG by using the method described in Section III-C
+
+Currently, codes can work but have not been optimized. Some comments may not be up-to-date.
 # Test Set
 Test sets in the numerical experiments (spherical, cliff and hard instances)
