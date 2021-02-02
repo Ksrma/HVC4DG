@@ -17,6 +17,9 @@ Currently, codes can work but have not been optimized. Some comments may not be 
 Test sets in the numerical experiments (spherical, cliff and hard instances)
 # Contact
 Jingda Deng
+
 School of Mathematics and Statistics
+
 Xi'an Jiaotong Universigy
+
 E-mail: jddeng@xjtu.edu.cn
