@@ -15,3 +15,8 @@ HVC4DGS: an improved version of HVC4DG by using the method described in Section 
 Currently, codes can work but have not been optimized. Some comments may not be up-to-date.
 # Test Set
 Test sets in the numerical experiments (spherical, cliff and hard instances)
+# Contact
+Jingda Deng
+School of Mathematics and Statistics
+Xi'an Jiaotong Universigy
+E-mail: jddeng@xjtu.edu.cn
