@@ -1,4 +1,4 @@
-# The HVC4DG Algorithm
+# The HVC4D-G Algorithm
 An O(n^{3/2}logn) exact algorithm for 4-D hypervolume contributions
 
 This is the implementation of our method proposed in:
@@ -7,19 +7,19 @@ Jingda Deng, Qingfu Zhang, Jianyong Sun, and Hui Li, "An O(n^{3/2}logn) Exact Al
 
 which was submitted to IEEE TEVC (under review)
 
-# HVC4DG/HVC4DGS
-HVC4DG: the original algorithm described in Section III-B
+# HVC4D-G/HVC4D-GS
+HVC4DG.cpp: implementation of the basic HVC4D-G algorithm
 
-HVC4DGS: an improved version of HVC4DG by using the method described in Section III-C
+HVC4DGS.cpp: implementation of an improved version of HVC4D-G by using the method described in Section IV-E
 
-Compilation: g++ -O3 HVC4DG/HVC4DGS.cpp
+Compilation: g++ -O3 HVC4DG.cpp/HVC4DGS.cpp
 
 Usage: HVC4DG/HVC4DGS #1 word1 word2 word3
 
 where #1 is the number of points(n), word1 is the input file name, word2 is the reference point file name, and word3 is the output file name. Results will be outputed to screen if there is no word3. Input file should contains n lines, each of which contains 4 numbers separated by blanks. Currently, codes can work but have not been optimized. Some comments may not be up-to-date.
 
 # Test Set
-Test sets in the numerical experiments (spherical, cliff and hard instances)
+Test sets in the numerical experiments (spherical, cliff, hard instances, and random sets with dominated points)
 # Contact
 Jingda Deng
 
