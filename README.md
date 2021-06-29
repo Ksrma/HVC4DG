@@ -25,6 +25,6 @@ Jingda Deng
 
 School of Mathematics and Statistics
 
-Xi'an Jiaotong Universigy
+Xi'an Jiaotong University
 
 E-mail: jddeng@xjtu.edu.cn
