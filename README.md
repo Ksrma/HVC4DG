@@ -3,9 +3,7 @@ An O(n^{3/2}logn) exact algorithm for computing 4-D hypervolume contributions of
 
 This is the implementation of our method proposed in:
 
-Jingda Deng, Qingfu Zhang, Jianyong Sun, and Hui Li, "An O(n^{3/2}logn) Exact Algorithm for Computing Hypervolume Contributions in 4-D Space"
-
-which was submitted to IEEE TEVC (under review)
+Jingda Deng, Qingfu Zhang, Jianyong Sun, and Hui Li, "A Fast Exact Algorithm for Computing the Hypervolume Contributions in 4-D Space", IEEE Transactions on Evolutionary Computation, 2023, DOI: 10.1109/TEVC.2023.3271679
 
 # HVC4D-G/HVC4D-GS
 HVC4DG.cpp: implementation of the basic HVC4D-G algorithm
