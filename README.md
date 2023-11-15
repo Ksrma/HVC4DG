@@ -1,5 +1,5 @@
 # The HVC4D-G Algorithm
-An $O(n^{3/2}logn)$ exact algorithm for computing 4-D hypervolume contributions of all the points in an $n$-point set
+An $O(n^{3/2}\log n)$ exact algorithm for computing 4-D hypervolume contributions of all the points in an $n$-point set
 
 This is the implementation of our method proposed in:
 
