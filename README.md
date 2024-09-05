@@ -3,7 +3,7 @@ An $O(n^{3/2}\log n)$ exact algorithm for computing 4-D hypervolume contribution
 
 This is the implementation of our method proposed in:
 
-Jingda Deng, Qingfu Zhang, Jianyong Sun, and Hui Li, "A Fast Exact Algorithm for Computing the Hypervolume Contributions in 4-D Space", IEEE Transactions on Evolutionary Computation, 2023, DOI: 10.1109/TEVC.2023.3271679
+Jingda Deng, Qingfu Zhang, Jianyong Sun, and Hui Li, "A Fast Exact Algorithm for Computing the Hypervolume Contributions in 4-D Space", IEEE Transactions on Evolutionary Computation, 28(4): 876-890, 2024, DOI: 10.1109/TEVC.2023.3271679.
 
 # HVC4D-G/HVC4D-GS
 HVC4DG.cpp: implementation of the basic HVC4D-G algorithm
@@ -18,6 +18,10 @@ where #1 is the number of points(n), word1 is the input file name, word2 is the 
 
 # Test Set
 Test sets in the numerical experiments (spherical, cliff, hard instances, and random sets with dominated points)
+
+# Supplementary Materials
+For your information, the supplementary materials of the published paper are uploaded.
+
 # Contact
 Jingda Deng
 
