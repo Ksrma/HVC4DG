@@ -29,4 +29,5 @@ School of Mathematics and Statistics
 
 Xi'an Jiaotong University
 
-E-mail: jddeng@xjtu.edu.cn
+E-mail: ~jddeng@xjtu.edu.cn~
+        jddeng@xaut.edu.cn
